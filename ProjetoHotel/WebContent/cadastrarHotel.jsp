@@ -17,6 +17,7 @@
 	
 	<!-- CSS personalizado -->
 	<link rel="stylesheet" href="lib/css-personalizado/logado-admsystem.css">
+	<link rel="stylesheet" href="lib/css-personalizado/frmclient.css">
 	<link href="css/style.css" rel="stylesheet">
 
 </head>
@@ -54,7 +55,7 @@
 			    </div>
 			 
 			    <div class="col-md-3">
-			        <a href="newcadastroHotel.jsp" class="btn btn-primary pull-right h2">Novo</a>
+			        <a href="cadastroHotel.jsp" class="btn btn-primary pull-right h2">Novo</a>
 			    </div>
 			</div> <!-- /#top -->
 	
